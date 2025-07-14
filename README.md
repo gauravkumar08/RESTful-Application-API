@@ -54,3 +54,28 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
 
    ```bash
    node server.js
+
+## API Endpoints
+
+### Posts
+- `GET /api/posts` — Get all posts
+
+- `POST /api/posts` — Create a new post (requires authentication)
+
+- `GET /api/posts/:id` — Get a single post by ID
+
+- `PUT /api/posts/:id` — Update a post (requires authentication)
+
+- `DELETE /api/posts/:id` — Delete a post (requires authentication)
+
+### Comments
+- `GET /api/comments?post_id={post_id}` — Get all comments for a post
+
+- `POST /api/comments` — Create a new comment (requires authentication)
+
+- `GET /api/comments/:id` — Get a single comment by ID
+
+- `PUT /api/comments/:id` — Update a comment (requires authentication)
+
+- `DELETE /api/comments/:id` — Delete a comment (requires authentication)
+
