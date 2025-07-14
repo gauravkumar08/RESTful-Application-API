@@ -2,8 +2,6 @@
 
 This is a RESTful API for a Blog application built with Node.js, Express, MongoDB, and JWT authentication. It supports CRUD operations for posts and comments with user authentication and authorization. Jest is used for testing the API endpoints.
 
----
-
 ## Features
 
 - User authentication with JWT
@@ -12,8 +10,6 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
 - MongoDB database integration
 - Environment variable management with dotenv
 - Unit and integration testing with Jest and Supertest
-
----
 
 ## Technologies Used
 
@@ -24,8 +20,6 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
 - dotenv
 - Jest (testing framework)
 - Supertest (for API testing)
-
----
 
 ## Getting Started
 
@@ -60,7 +54,3 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
 
    ```bash
    node server.js
-
-
-
-
