@@ -55,7 +55,7 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
    ```bash
    node server.js
 
-5. Install jest and superset for testing
+5. Install jest and supertest for testing
 
    ```bash
    npm install --save-dev jest supertest
