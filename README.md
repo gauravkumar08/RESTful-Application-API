@@ -61,6 +61,11 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
    npm install --save-dev jest supertest
    npm test
 
+6. Generating a JWT Token for Testing
+
+   ```bash
+   node generateToken.js
+
 ## API Endpoints
 
 ### Posts
