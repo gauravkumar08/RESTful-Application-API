@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const User = require('./models/User'); // Adjust the path if needed
+const User = require('./models/User'); 
 require('dotenv').config();
 
 async function createUser() {
@@ -10,7 +10,7 @@ async function createUser() {
     const user = new User({
       username: 'gaurav123',
       email: 'gaurav123@gmail.com',
-      password: 'password123' // If your model hashes passwords, plain text is fine here
+      password: 'password123' 
     });
 
     await user.save();
