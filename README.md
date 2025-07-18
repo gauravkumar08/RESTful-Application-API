@@ -85,3 +85,13 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
 
 - `DELETE /api/comments/:id` — Delete a comment (requires authentication)
 
+
+## Results
+
+Creating First Posts
+
+![WhatsApp Image 2025-07-18 at 14 51 29_5c481d84](https://github.com/user-attachments/assets/a945727d-939c-4bec-b88e-0df449bf4dd2)
+
+
+
+
