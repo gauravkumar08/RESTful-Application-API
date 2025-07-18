@@ -66,6 +66,11 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
    ```bash
    node generateToken.js
 
+7. User Creation Script
+
+   ```bash
+   node createUser.js
+
 ## API Endpoints
 
 ### Posts
