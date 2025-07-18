@@ -88,23 +88,23 @@ This is a RESTful API for a Blog application built with Node.js, Express, MongoD
 
 ## Results
 
-Commenting User Information
+## Commenting User Information
 
 ![WhatsApp Image 2025-07-18 at 15 11 28_c3240aa7](https://github.com/user-attachments/assets/52328e53-a043-457c-92df-0bc1acde95fa)
 
-Creating First Posts
+## Creating First Posts
 
 ![WhatsApp Image 2025-07-18 at 14 51 29_5c481d84](https://github.com/user-attachments/assets/a945727d-939c-4bec-b88e-0df449bf4dd2)
 
-Giving First Comments
+## Giving First Comments
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4aa94690-473d-4bae-a054-09202c7dfca7" />
 
-Posts Page
+## Posts Page
 
 ![WhatsApp Image 2025-07-18 at 15 11 04_5c57eacf](https://github.com/user-attachments/assets/d52ec32d-127c-4bb2-b33b-77bfdb62165e)
 
-Comments Page
+## Comments Page
 
 ![WhatsApp Image 2025-07-18 at 15 10 05_a29e0e2c](https://github.com/user-attachments/assets/742f9eaa-707c-407b-88bf-04a094fa8265)
 
